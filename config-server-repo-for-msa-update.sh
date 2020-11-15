@@ -8,7 +8,7 @@ git remote add origin https://rentalfilms72:Programmation2020@github.com/rentalf
 
 #Faites un commit du contenu :
 #@echo "Our first commit..."
-git commit -m "First commit"
+git commit -m "UPDATE"
 
 #Poussez enfin le tout vers le dépôt distant :
 #@echo "pushing..."
